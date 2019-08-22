@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Julia Software Package Development'
+project = 'Julia Package Development'
 copyright = '2019, Yao Chen'
 author = 'Yao Chen'
 
@@ -35,9 +35,6 @@ extensions = [
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-
-# The master toctree document.
-master_doc = 'Julia Software Package Development'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
